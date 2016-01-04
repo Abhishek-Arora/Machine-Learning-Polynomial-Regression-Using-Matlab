@@ -1,5 +1,5 @@
 # Machine-Learning-Polynomial-Regression-Using-Matlab
-This project trains model for regression and analyze a dataset
+In this Machine Learning assignment for CMPT 726 ML course at SFU, trained model for regression and analyzed a dataset.
 
 
 ##Data
